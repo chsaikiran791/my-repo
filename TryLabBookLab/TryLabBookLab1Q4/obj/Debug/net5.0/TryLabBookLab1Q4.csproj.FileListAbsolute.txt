@@ -1,0 +1,16 @@
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\bin\Debug\net5.0\TryLabBookLab1Q4.exe
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\bin\Debug\net5.0\TryLabBookLab1Q4.deps.json
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\bin\Debug\net5.0\TryLabBookLab1Q4.runtimeconfig.json
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\bin\Debug\net5.0\TryLabBookLab1Q4.runtimeconfig.dev.json
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\bin\Debug\net5.0\TryLabBookLab1Q4.dll
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\bin\Debug\net5.0\ref\TryLabBookLab1Q4.dll
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\bin\Debug\net5.0\TryLabBookLab1Q4.pdb
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\TryLabBookLab1Q4.csproj.AssemblyReference.cache
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\TryLabBookLab1Q4.GeneratedMSBuildEditorConfig.editorconfig
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\TryLabBookLab1Q4.AssemblyInfoInputs.cache
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\TryLabBookLab1Q4.AssemblyInfo.cs
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\TryLabBookLab1Q4.csproj.CoreCompileInputs.cache
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\TryLabBookLab1Q4.dll
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\ref\TryLabBookLab1Q4.dll
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\TryLabBookLab1Q4.pdb
+A:\capgemini\.Net\visual studio\TryLabBookLab\TryLabBookLab1Q4\obj\Debug\net5.0\TryLabBookLab1Q4.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TryLabBookLab1Q3/1.0.0": {
+        "runtime": {
+          "TryLabBookLab1Q3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TryLabBookLab1Q3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
